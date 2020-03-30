@@ -1,0 +1,6 @@
+C:\Users\User\Desktop\work\test3\work3\work3\bin\Debug\work3.exe.config
+C:\Users\User\Desktop\work\test3\work3\work3\bin\Debug\work3.exe
+C:\Users\User\Desktop\work\test3\work3\work3\bin\Debug\work3.pdb
+C:\Users\User\Desktop\work\test3\work3\work3\obj\Debug\work3.csprojAssemblyReference.cache
+C:\Users\User\Desktop\work\test3\work3\work3\obj\Debug\work3.exe
+C:\Users\User\Desktop\work\test3\work3\work3\obj\Debug\work3.pdb
